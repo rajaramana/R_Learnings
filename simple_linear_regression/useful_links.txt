@@ -1,0 +1,4 @@
+https://www.kaggle.com/amitdhakre13/simple-linear-regression-in-r
+https://www.r-bloggers.com/missing-value-treatment/
+http://www-personal.umich.edu/~ladamic/courses/SI544/si544w08/lectures/lecture14.pdf
+http://uc-r.github.io/missing_values
